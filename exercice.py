@@ -5,13 +5,17 @@ PERCENTAGE_TO_LETTER = {"A*": [95, 101], "A": [90, 95], "B+": [85, 90], "B": [80
 
 # TODO: Importez vos modules ici
 def exercice1(file_path1, file_path2):
-    with open(file_path1, encoding="utf-8") as f1,  open(file_path1, encoding="utf-8") as f2:
+    with open(file_path1, encoding="utf-8") as f1,  open(file_path2, encoding="utf-8") as f2:
         for line1 in f1:
             line2 = f2.readline()
             if line1 != line2:
                 print(line1 + "is not equal to " + line2)
                 break
         print("The two files are the same")
+
+def exercice2(file_path1, file_path2):
+    with open(file_path1, encoding="utf-8") as f1, open(file_path2, encoding="utf-8") as f2:
+        file_path2.write(file_path1.read.read().replace("", "  ,"))
 
 # TODO: Définissez vos fonction ici
 
