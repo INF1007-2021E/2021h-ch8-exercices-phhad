@@ -17,6 +17,14 @@ def exercice2(file_path1, file_path2):
     with open(file_path1, encoding="utf-8") as f1, open(file_path2, encoding="utf-8") as f2:
         file_path2.write(file_path1.read.read().replace("", "  ,"))
 
+
+def exercice3(file_path1, file_path2):
+    with open(file_path1, encoding="utf-8") as file, open(file_path2, encoding="utf-8") as f:
+        note_percent = file_path1.read()
+    for note in note_percent:
+        for key, value in PERCENTAGE_TO_LETTER.items():
+            if value[0] <= int(note) < value[1]:
+                f.write(note.strp() + "" + key + "\n")
 # TODO: Définissez vos fonction ici
 
 
