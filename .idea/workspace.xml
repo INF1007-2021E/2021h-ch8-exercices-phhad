@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b86fb61-713e-476c-ad51-95220a5aba43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/2021h-ch8-exercices-phhad.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2021h-ch8-exercices-phhad.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exercice.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercice.py" afterDir="false" />
     </list>
@@ -34,6 +36,19 @@
       <option name="presentableId" value="Default" />
       <updated>1615915301141</updated>
       <workItem from="1615915309829" duration="3477000" />
+      <workItem from="1615994300377" duration="5007000" />
+      <workItem from="1616017506137" duration="269000" />
+      <workItem from="1616017818461" duration="2387000" />
+      <workItem from="1616063591263" duration="1757000" />
+      <workItem from="1616103937843" duration="457000" />
+      <workItem from="1616105443169" duration="664000" />
+      <workItem from="1616107609692" duration="591000" />
+      <workItem from="1616242675734" duration="1318000" />
+      <workItem from="1616860110709" duration="56000" />
+      <workItem from="1617054470134" duration="718000" />
+      <workItem from="1617906677311" duration="1240000" />
+      <workItem from="1618161537959" duration="618000" />
+      <workItem from="1618438034284" duration="592000" />
     </task>
     <servers />
   </component>
